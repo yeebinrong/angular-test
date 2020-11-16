@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'your-angular-project';
+  cat = '/assets/images/cat1.png';
+  dog = '/assets/images/dog1.png';
 }
